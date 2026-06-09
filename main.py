@@ -1,3 +1,6 @@
+from init_llm import generate_response
+
+
 def main():
     print("Hello from tts-test!")
 
